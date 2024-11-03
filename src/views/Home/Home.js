@@ -5,7 +5,7 @@ import BlogCard from '../../components/BlogCard/BlogCard'
 function Home() {
   return (
     <div>
-      <h1 className='heading'>LED TV blogs</h1>
+      <h1 className='heading'>Electronics blogs</h1>
       <div className='cards-container'>
         {
           blogs.map((blogObject,i)=>{

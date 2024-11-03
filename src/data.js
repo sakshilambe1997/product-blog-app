@@ -11,7 +11,7 @@ const blogs=[
     {
         id :"refrigirator",
         title:"Refrigirator",
-        image:"https://m.media-amazon.com/images/I/41te6o+zQ7L._SY300_SX300_.jpg",
+        image:"https://5.imimg.com/data5/LO/PA/MY-13208987/samsung-refrigerator.jpg",
         description:"Acer Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/512 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6)",
         ratings:"4.0 ⭐⭐⭐⭐",
         price:"₹ 23,900"
